@@ -1,30 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=40&lines=Hey%2C+I'm+Danila+Shulga+%F0%9F%91%8B;Junior+Developer;Always+learning..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=40&lines=Hey%2C+I'm+Danila+Shulga;Junior+Developer;Always+learning..." alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 〉 About me
+### About me
 
-<br>
+The most violent, the most diabolical, the most dangerous. A beast slayer, a conqueror of conquerors, the goat of all goats. So that they say at the end of the match — ladies and gentlemen, your mvp. The ultimate needle mover, the head of the table, the tribal chief. *(just kidding xd)*
 
-**Name:** Danila Shulga
+I am a junior developer based in Minsk, Belarus. Currently studying Python, Kotlin and JavaScript fundamentals while working on my first mobile app — **Color Trip**.
 
-**Location:** Minsk, Belarus
+My goal is to build a product so impactful that hundreds of thousands of people will shape their entire day around it.
 
- **Status:** Junior Developer / Prompt Engineer
-
-**Learning:** Python, Kotlin, JavaScript
-
-**Interests:** Open Source, Clean Code, Side Projects
-
-**Goal:** Aiming to build a product so impactful that hundreds of thousands will shape their entire day around it
+Open to new acquaintances and projects — feel free to reach out.
 
 ---
 
-### 〉 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,js,html,css,git,github,vscode&theme=dark&perline=8" />
@@ -32,21 +26,15 @@
 
 ---
 
-### 〉 Currently
+### Currently
 
-<br>
-
-Studying **Python / Kotlin / Programming Basics**
-
-Building **"Color Trip" mobile app**
-
-Goal for this year: **Make my first app and release it**
-
-Open to new acquaintances and projects — feel free to reach out!
+- Studying **Python / Kotlin / Programming Basics**
+- Building **Color Trip** — a mobile app
+- Goal for this year: release my first app
 
 ---
 
-### 〉 Contact
+### Contact
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=ybshul909@gmail.com">
@@ -56,5 +44,3 @@ Open to new acquaintances and projects — feel free to reach out!
     <img height="40" src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=60&section=footer" width="100%"/>
