@@ -36,11 +36,5 @@ Open to new acquaintances and projects — feel free to reach out.
 
 ### Contact
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=ybshul909@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/>
-  </a>
-  <a href="https://t.me/danilanocigarette">
-    <img height="40" src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff"/>
-  </a>
-</p>
+- Telegram: [@danilanocigarette](https://t.me/danilanocigarette)
+- Email: [ybshul909@gmail.com](mailto:ybshul909@gmail.com)
