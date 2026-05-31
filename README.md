@@ -8,9 +8,9 @@
 
 ### About me
 
-The most violent, the most diabolical, the most dangerous. A beast slayer, a conqueror of conquerors, the goat of all goats. So that they say at the end of the match — ladies and gentlemen, your mvp. The ultimate needle mover, the head of the table, the tribal chief. *(just kidding xd)*
+The most violent, the most diabolical, the most dangerous. A beast slayer, a conqueror of conquerors, the goat of all goats. The ultimate needle mover, the head of the table, the tribal chief. *(just kidding xd)*
 
-I am a junior developer based in Minsk, Belarus. Currently studying Python, Kotlin and JavaScript fundamentals while working on my first mobile app — **Color Trip**.
+I am a junior developer based in Minsk, Belarus. Currently studying Python, Kotlin and JavaScript fundamentals while working on my first mobile app – **Color Trip**.
 
 My goal is to build a product so impactful that hundreds of thousands of people will shape their entire day around it.
 
